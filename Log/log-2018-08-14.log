@@ -1,0 +1,410 @@
+[2018-08-14 19:58:48.600031] [INFO] [crawler.py] [index_page] [50] 正在爬取 1 页
+[2018-08-14 19:59:02.460824] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 19:59:02.460824] [INFO] [crawler.py] [index_page] [50] 正在爬取 2 页
+[2018-08-14 19:59:16.971654] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 19:59:16.972654] [INFO] [crawler.py] [index_page] [50] 正在爬取 3 页
+[2018-08-14 19:59:31.031458] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 19:59:31.031458] [INFO] [crawler.py] [index_page] [50] 正在爬取 4 页
+[2018-08-14 19:59:45.282274] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 19:59:45.282274] [INFO] [crawler.py] [index_page] [50] 正在爬取 5 页
+[2018-08-14 19:59:59.284074] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 19:59:59.284074] [INFO] [crawler.py] [index_page] [50] 正在爬取 6 页
+[2018-08-14 20:00:13.435884] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 20:00:13.435884] [INFO] [crawler.py] [index_page] [50] 正在爬取 7 页
+[2018-08-14 20:00:27.175670] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 20:00:27.175670] [INFO] [crawler.py] [index_page] [50] 正在爬取 8 页
+[2018-08-14 20:00:41.115467] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 20:00:41.116467] [INFO] [crawler.py] [index_page] [50] 正在爬取 9 页
+[2018-08-14 20:00:55.030263] [WARNING] [crawler.py] [index_page] [68] Message: 
+
+[2018-08-14 20:04:09.775402] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:04:23.521188] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:04:31.280632] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:04:47.773575] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:06:08.492192] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:06:22.407988] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:07:05.028426] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:07:19.238238] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:08:20.982770] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:08:34.765558] [WARNING] [crawler.py] [index_page] [71] Index_Page-----
+[2018-08-14 20:10:53.464491] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:10:57.118700] [INFO] [crawler.py] [index_page] [68] 开始抓取当前页面商品
+[2018-08-14 20:10:57.119700] [INFO] [crawler.py] [getProducts] [74] 获取本页商品信息
+[2018-08-14 20:10:57.260708] [WARNING] [crawler.py] [index_page] [71] Index_Page-----
+[2018-08-14 20:11:48.768655] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:11:52.784884] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:11:52.784884] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:11:52.912892] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:11:52.914892] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:11:57.111132] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:11:57.111132] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:11:57.253140] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:11:57.255140] [INFO] [crawler.py] [index_page] [51] 正在爬取 3 页
+[2018-08-14 20:12:00.351317] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:12:00.351317] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:12:00.532327] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:12:00.535328] [INFO] [crawler.py] [index_page] [51] 正在爬取 4 页
+[2018-08-14 20:12:03.744511] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:12:03.745511] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:12:03.906520] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:12:03.908521] [INFO] [crawler.py] [index_page] [51] 正在爬取 5 页
+[2018-08-14 20:12:06.993697] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:12:06.994697] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:12:07.150706] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:12:07.152706] [INFO] [crawler.py] [index_page] [51] 正在爬取 6 页
+[2018-08-14 20:12:10.303886] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:12:10.303886] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:12:10.450895] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:12:10.454895] [INFO] [crawler.py] [index_page] [51] 正在爬取 7 页
+[2018-08-14 20:12:13.758084] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:12:13.758084] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:12:13.904092] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:12:13.906092] [INFO] [crawler.py] [index_page] [51] 正在爬取 8 页
+[2018-08-14 20:12:17.009270] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:12:17.010270] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:12:17.144278] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:12:17.145278] [INFO] [crawler.py] [index_page] [51] 正在爬取 9 页
+[2018-08-14 20:12:20.363462] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:12:20.364462] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:12:20.514470] [WARNING] [crawler.py] [index_page] [69] Index_Page-----
+[2018-08-14 20:14:27.542736] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:14:31.598968] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:31.599968] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:31.723975] [WARNING] [crawler.py] [index_page] [69] Index_Page 1-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:14:31.724975] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:14:36.434244] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:36.434244] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:36.570252] [WARNING] [crawler.py] [index_page] [69] Index_Page 2-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:14:36.572252] [INFO] [crawler.py] [index_page] [51] 正在爬取 3 页
+[2018-08-14 20:14:39.681430] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:39.681430] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:39.803437] [WARNING] [crawler.py] [index_page] [69] Index_Page 3-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:14:39.805437] [INFO] [crawler.py] [index_page] [51] 正在爬取 4 页
+[2018-08-14 20:14:43.129627] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:43.130627] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:43.266635] [WARNING] [crawler.py] [index_page] [69] Index_Page 4-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:14:43.268635] [INFO] [crawler.py] [index_page] [51] 正在爬取 5 页
+[2018-08-14 20:14:46.296809] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:46.297809] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:46.434816] [WARNING] [crawler.py] [index_page] [69] Index_Page 5-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:14:46.435817] [INFO] [crawler.py] [index_page] [51] 正在爬取 6 页
+[2018-08-14 20:14:49.525993] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:49.526993] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:49.660001] [WARNING] [crawler.py] [index_page] [69] Index_Page 6-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:14:49.661001] [INFO] [crawler.py] [index_page] [51] 正在爬取 7 页
+[2018-08-14 20:14:53.092197] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:53.093197] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:53.206204] [WARNING] [crawler.py] [index_page] [69] Index_Page 7-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:14:53.207204] [INFO] [crawler.py] [index_page] [51] 正在爬取 8 页
+[2018-08-14 20:14:56.340383] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:56.341383] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:56.489392] [WARNING] [crawler.py] [index_page] [69] Index_Page 8-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:14:56.491392] [INFO] [crawler.py] [index_page] [51] 正在爬取 9 页
+[2018-08-14 20:14:59.557567] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:14:59.558567] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:14:59.679574] [WARNING] [crawler.py] [index_page] [69] Index_Page 9-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:15:54.679720] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:15:57.915905] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:15:57.915905] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:15:58.062913] [WARNING] [crawler.py] [index_page] [69] Index_Page 1-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:15:58.063913] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:16:01.403104] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:16:01.403104] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:16:01.531112] [WARNING] [crawler.py] [index_page] [69] Index_Page 2-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:16:01.532112] [INFO] [crawler.py] [index_page] [51] 正在爬取 3 页
+[2018-08-14 20:16:04.616288] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:16:04.617288] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:16:04.748296] [WARNING] [crawler.py] [index_page] [69] Index_Page 3-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:16:04.750296] [INFO] [crawler.py] [index_page] [51] 正在爬取 4 页
+[2018-08-14 20:16:07.786470] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:16:07.787470] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:16:07.921477] [WARNING] [crawler.py] [index_page] [69] Index_Page 4-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:16:07.923477] [INFO] [crawler.py] [index_page] [51] 正在爬取 5 页
+[2018-08-14 20:16:11.172663] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:16:11.173663] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:16:11.317672] [WARNING] [crawler.py] [index_page] [69] Index_Page 5-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:16:11.319672] [INFO] [crawler.py] [index_page] [51] 正在爬取 6 页
+[2018-08-14 20:16:14.439850] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:16:14.440850] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:16:14.568857] [WARNING] [crawler.py] [index_page] [69] Index_Page 6-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:16:14.570858] [INFO] [crawler.py] [index_page] [51] 正在爬取 7 页
+[2018-08-14 20:16:17.597031] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:16:17.597031] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:16:17.749039] [WARNING] [crawler.py] [index_page] [69] Index_Page 7-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:16:17.751039] [INFO] [crawler.py] [index_page] [51] 正在爬取 8 页
+[2018-08-14 20:16:20.930221] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:16:20.930221] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:16:21.073229] [WARNING] [crawler.py] [index_page] [69] Index_Page 8-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:16:21.075230] [INFO] [crawler.py] [index_page] [51] 正在爬取 9 页
+[2018-08-14 20:16:24.121404] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:16:24.121404] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:16:24.250411] [WARNING] [crawler.py] [index_page] [69] Index_Page 9-----Expected selector, got <DELIM '#' at 0>
+[2018-08-14 20:20:16.892718] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:20:20.673934] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:20.673934] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:20:20.814942] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:20:24.635160] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:24.636160] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:20:24.787169] [INFO] [crawler.py] [index_page] [51] 正在爬取 3 页
+[2018-08-14 20:20:27.956350] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:27.956350] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:20:28.101359] [INFO] [crawler.py] [index_page] [51] 正在爬取 4 页
+[2018-08-14 20:20:31.327543] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:31.327543] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:20:31.532555] [INFO] [crawler.py] [index_page] [51] 正在爬取 5 页
+[2018-08-14 20:20:35.093759] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:35.093759] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:20:35.285770] [INFO] [crawler.py] [index_page] [51] 正在爬取 6 页
+[2018-08-14 20:20:38.472952] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:38.472952] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:20:38.616960] [INFO] [crawler.py] [index_page] [51] 正在爬取 7 页
+[2018-08-14 20:20:41.841145] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:41.842145] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:20:41.993153] [INFO] [crawler.py] [index_page] [51] 正在爬取 8 页
+[2018-08-14 20:20:45.204337] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:45.205337] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:20:45.420349] [INFO] [crawler.py] [index_page] [51] 正在爬取 9 页
+[2018-08-14 20:20:48.692536] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:20:48.693537] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:21:59.469585] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:22:03.236800] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:03.236800] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:22:03.420811] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:22:07.475043] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:07.476043] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:22:07.610050] [INFO] [crawler.py] [index_page] [51] 正在爬取 3 页
+[2018-08-14 20:22:10.881237] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:10.881237] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:22:11.018245] [INFO] [crawler.py] [index_page] [51] 正在爬取 4 页
+[2018-08-14 20:22:14.170425] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:14.170425] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:22:14.298433] [INFO] [crawler.py] [index_page] [51] 正在爬取 5 页
+[2018-08-14 20:22:17.557619] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:17.557619] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:22:17.729629] [INFO] [crawler.py] [index_page] [51] 正在爬取 6 页
+[2018-08-14 20:22:20.889810] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:20.889810] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:22:21.034818] [INFO] [crawler.py] [index_page] [51] 正在爬取 7 页
+[2018-08-14 20:22:24.053991] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:24.053991] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:22:24.236001] [INFO] [crawler.py] [index_page] [51] 正在爬取 8 页
+[2018-08-14 20:22:27.568192] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:27.569192] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:22:27.795205] [INFO] [crawler.py] [index_page] [51] 正在爬取 9 页
+[2018-08-14 20:22:30.950385] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:22:30.951385] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:24:25.187919] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:24:39.166719] [WARNING] [crawler.py] [index_page] [69] Index_Page 1-----Message: 
+
+[2018-08-14 20:24:39.166719] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:24:52.217465] [WARNING] [crawler.py] [index_page] [69] Index_Page 2-----Message: 
+
+[2018-08-14 20:24:52.217465] [INFO] [crawler.py] [index_page] [51] 正在爬取 3 页
+[2018-08-14 20:25:05.060200] [WARNING] [crawler.py] [index_page] [69] Index_Page 3-----Message: 
+
+[2018-08-14 20:25:05.060200] [INFO] [crawler.py] [index_page] [51] 正在爬取 4 页
+[2018-08-14 20:25:17.732925] [WARNING] [crawler.py] [index_page] [69] Index_Page 4-----Message: 
+
+[2018-08-14 20:25:17.732925] [INFO] [crawler.py] [index_page] [51] 正在爬取 5 页
+[2018-08-14 20:25:30.592660] [WARNING] [crawler.py] [index_page] [69] Index_Page 5-----Message: 
+
+[2018-08-14 20:25:30.592660] [INFO] [crawler.py] [index_page] [51] 正在爬取 6 页
+[2018-08-14 20:25:43.224383] [WARNING] [crawler.py] [index_page] [69] Index_Page 6-----Message: 
+
+[2018-08-14 20:25:43.224383] [INFO] [crawler.py] [index_page] [51] 正在爬取 7 页
+[2018-08-14 20:25:55.922109] [WARNING] [crawler.py] [index_page] [69] Index_Page 7-----Message: 
+
+[2018-08-14 20:25:55.922109] [INFO] [crawler.py] [index_page] [51] 正在爬取 8 页
+[2018-08-14 20:26:08.832847] [WARNING] [crawler.py] [index_page] [69] Index_Page 8-----Message: 
+
+[2018-08-14 20:26:08.833847] [INFO] [crawler.py] [index_page] [51] 正在爬取 9 页
+[2018-08-14 20:26:21.617579] [WARNING] [crawler.py] [index_page] [69] Index_Page 9-----Message: 
+
+[2018-08-14 20:27:09.005289] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:27:23.572122] [WARNING] [crawler.py] [index_page] [69] Index_Page 1-----Message: 
+
+[2018-08-14 20:27:23.572122] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:27:36.337852] [WARNING] [crawler.py] [index_page] [69] Index_Page 2-----Message: 
+
+[2018-08-14 20:29:07.413062] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:29:21.316857] [WARNING] [crawler.py] [index_page] [69] Index_Page 1-----Message: 
+
+[2018-08-14 20:29:21.316857] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:29:34.487610] [WARNING] [crawler.py] [index_page] [69] Index_Page 2-----Message: 
+
+[2018-08-14 20:30:27.589647] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:30:33.718998] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:30:33.719998] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:30:33.885008] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:30:37.301203] [INFO] [crawler.py] [index_page] [66] 开始抓取当前页面商品
+[2018-08-14 20:30:37.301203] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 20:31:26.889039] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:31:41.101852] [WARNING] [crawler.py] [index_page] [68] Index_Page 1-----Message: 
+
+[2018-08-14 20:31:41.101852] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:31:54.107596] [WARNING] [crawler.py] [index_page] [68] Index_Page 2-----Message: 
+
+[2018-08-14 20:33:46.929049] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:34:01.096859] [WARNING] [crawler.py] [index_page] [68] Index_Page 1-----Message: 
+
+[2018-08-14 20:34:01.096859] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:34:13.969596] [WARNING] [crawler.py] [index_page] [68] Index_Page 2-----Message: 
+
+[2018-08-14 20:34:26.268299] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:34:29.710496] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:34:30.022514] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 20:34:33.750727] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:35:34.006173] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:35:37.681384] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:48:13.819632] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:48:17.406838] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:49:32.031106] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:49:36.144341] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:56:28.017899] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:56:31.156078] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:57:09.723284] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:57:13.282488] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:58:50.544051] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:58:53.914244] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:58:54.065252] [WARNING] [crawler.py] [index_page] [68] Index_Page 1-----object of type 'generator' has no len()
+[2018-08-14 20:59:19.084683] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 20:59:26.126086] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 20:59:26.294096] [WARNING] [crawler.py] [index_page] [68] Index_Page 1-----object of type 'generator' has no len()
+[2018-08-14 20:59:58.382931] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:00:18.258068] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:01:09.681009] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:01:14.508285] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:01:49.324277] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:01:53.387509] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:02:42.633326] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:02:46.814565] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:04:50.629647] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:04:54.406863] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:05:48.232941] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:05:52.038159] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:09.044132] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:06:12.870351] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:13.099364] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 21:06:16.989586] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:17.235600] [INFO] [crawler.py] [index_page] [51] 正在爬取 3 页
+[2018-08-14 21:06:20.285775] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:20.519788] [INFO] [crawler.py] [index_page] [51] 正在爬取 4 页
+[2018-08-14 21:06:23.469957] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:23.798976] [INFO] [crawler.py] [index_page] [51] 正在爬取 5 页
+[2018-08-14 21:06:27.232172] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:27.460185] [INFO] [crawler.py] [index_page] [51] 正在爬取 6 页
+[2018-08-14 21:06:30.495359] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:30.764374] [INFO] [crawler.py] [index_page] [51] 正在爬取 7 页
+[2018-08-14 21:06:33.860551] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:34.096565] [INFO] [crawler.py] [index_page] [51] 正在爬取 8 页
+[2018-08-14 21:06:37.371752] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:06:37.593765] [INFO] [crawler.py] [index_page] [51] 正在爬取 9 页
+[2018-08-14 21:06:40.704943] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:14:36.716169] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:14:39.874349] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:15:58.821865] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:16:02.642084] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:29:55.661730] [INFO] [crawler.py] [index_page] [51] 正在爬取 1 页
+[2018-08-14 21:29:59.214933] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:29:59.444946] [INFO] [crawler.py] [index_page] [51] 正在爬取 2 页
+[2018-08-14 21:30:04.312224] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:30:04.635243] [INFO] [crawler.py] [index_page] [51] 正在爬取 3 页
+[2018-08-14 21:30:07.883429] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:30:08.124442] [INFO] [crawler.py] [index_page] [51] 正在爬取 4 页
+[2018-08-14 21:30:12.483692] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:30:12.691704] [INFO] [crawler.py] [index_page] [51] 正在爬取 5 页
+[2018-08-14 21:30:15.889886] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:30:16.118900] [INFO] [crawler.py] [index_page] [51] 正在爬取 6 页
+[2018-08-14 21:30:19.153073] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:30:19.383086] [INFO] [crawler.py] [index_page] [51] 正在爬取 7 页
+[2018-08-14 21:30:22.635272] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:30:22.861285] [INFO] [crawler.py] [index_page] [51] 正在爬取 8 页
+[2018-08-14 21:30:26.025466] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:30:26.356485] [INFO] [crawler.py] [index_page] [51] 正在爬取 9 页
+[2018-08-14 21:30:29.491664] [INFO] [crawler.py] [getProducts] [71] 获取本页商品信息
+[2018-08-14 21:31:39.822687] [INFO] [crawler.py] [index_page] [52] 正在爬取 1 页
+[2018-08-14 21:31:43.274885] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:31:43.550900] [INFO] [crawler.py] [index_page] [52] 正在爬取 2 页
+[2018-08-14 21:31:46.595075] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:31:46.824088] [INFO] [crawler.py] [index_page] [52] 正在爬取 3 页
+[2018-08-14 21:31:49.717253] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:31:49.944266] [INFO] [crawler.py] [index_page] [52] 正在爬取 4 页
+[2018-08-14 21:31:52.721425] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:31:52.930437] [INFO] [crawler.py] [index_page] [52] 正在爬取 5 页
+[2018-08-14 21:31:56.053616] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:31:56.294629] [INFO] [crawler.py] [index_page] [52] 正在爬取 6 页
+[2018-08-14 21:31:59.308802] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:31:59.559816] [INFO] [crawler.py] [index_page] [52] 正在爬取 7 页
+[2018-08-14 21:32:02.521986] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:32:02.751999] [INFO] [crawler.py] [index_page] [52] 正在爬取 8 页
+[2018-08-14 21:32:05.620163] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:32:05.823174] [INFO] [crawler.py] [index_page] [52] 正在爬取 9 页
+[2018-08-14 21:32:09.030358] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:33:55.702459] [INFO] [crawler.py] [index_page] [52] 正在爬取 1 页
+[2018-08-14 21:33:59.088653] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:33:59.249662] [WARNING] [crawler.py] [index_page] [69] Index_Page 1-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:33:59.249662] [INFO] [crawler.py] [index_page] [52] 正在爬取 2 页
+[2018-08-14 21:34:03.903928] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:34:04.068938] [WARNING] [crawler.py] [index_page] [69] Index_Page 2-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:34:04.068938] [INFO] [crawler.py] [index_page] [52] 正在爬取 3 页
+[2018-08-14 21:34:07.055108] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:34:07.231118] [WARNING] [crawler.py] [index_page] [69] Index_Page 3-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:34:07.231118] [INFO] [crawler.py] [index_page] [52] 正在爬取 4 页
+[2018-08-14 21:34:10.251291] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:34:10.406300] [WARNING] [crawler.py] [index_page] [69] Index_Page 4-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:34:10.407300] [INFO] [crawler.py] [index_page] [52] 正在爬取 5 页
+[2018-08-14 21:34:13.497477] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:34:13.664486] [WARNING] [crawler.py] [index_page] [69] Index_Page 5-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:34:13.665486] [INFO] [crawler.py] [index_page] [52] 正在爬取 6 页
+[2018-08-14 21:34:16.691660] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:34:16.896671] [WARNING] [crawler.py] [index_page] [69] Index_Page 6-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:34:16.896671] [INFO] [crawler.py] [index_page] [52] 正在爬取 7 页
+[2018-08-14 21:34:19.999849] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:34:20.151857] [WARNING] [crawler.py] [index_page] [69] Index_Page 7-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:34:20.152858] [INFO] [crawler.py] [index_page] [52] 正在爬取 8 页
+[2018-08-14 21:34:23.152029] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:34:23.306038] [WARNING] [crawler.py] [index_page] [69] Index_Page 8-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:34:23.306038] [INFO] [crawler.py] [index_page] [52] 正在爬取 9 页
+[2018-08-14 21:34:26.382214] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:34:26.568224] [WARNING] [crawler.py] [index_page] [69] Index_Page 9-----local variable 'cnt' referenced before assignment
+[2018-08-14 21:35:29.964851] [INFO] [crawler.py] [index_page] [52] 正在爬取 1 页
+[2018-08-14 21:35:33.405047] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:35:33.727066] [INFO] [crawler.py] [index_page] [52] 正在爬取 2 页
+[2018-08-14 21:35:36.850244] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:35:37.160262] [INFO] [crawler.py] [index_page] [52] 正在爬取 3 页
+[2018-08-14 21:35:40.328443] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:35:40.561457] [INFO] [crawler.py] [index_page] [52] 正在爬取 4 页
+[2018-08-14 21:35:43.453622] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:35:43.676635] [INFO] [crawler.py] [index_page] [52] 正在爬取 5 页
+[2018-08-14 21:35:46.771812] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:35:47.011826] [INFO] [crawler.py] [index_page] [52] 正在爬取 6 页
+[2018-08-14 21:35:50.061000] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:35:50.311014] [INFO] [crawler.py] [index_page] [52] 正在爬取 7 页
+[2018-08-14 21:35:53.214180] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:35:53.459194] [INFO] [crawler.py] [index_page] [52] 正在爬取 8 页
+[2018-08-14 21:36:04.125804] [INFO] [crawler.py] [index_page] [52] 正在爬取 1 页
+[2018-08-14 21:36:06.731954] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:36:07.000969] [INFO] [crawler.py] [index_page] [52] 正在爬取 2 页
+[2018-08-14 21:36:10.646177] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:36:10.853189] [INFO] [crawler.py] [index_page] [52] 正在爬取 3 页
+[2018-08-14 21:36:13.933365] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:36:14.148378] [INFO] [crawler.py] [index_page] [52] 正在爬取 4 页
+[2018-08-14 21:36:16.943538] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:36:17.152550] [INFO] [crawler.py] [index_page] [52] 正在爬取 5 页
+[2018-08-14 21:36:19.969711] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:36:20.183723] [INFO] [crawler.py] [index_page] [52] 正在爬取 6 页
+[2018-08-14 21:36:23.094889] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:36:23.359905] [INFO] [crawler.py] [index_page] [52] 正在爬取 7 页
+[2018-08-14 21:36:26.148064] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:36:26.353076] [INFO] [crawler.py] [index_page] [52] 正在爬取 8 页
+[2018-08-14 21:36:29.114234] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
+[2018-08-14 21:36:29.348247] [INFO] [crawler.py] [index_page] [52] 正在爬取 9 页
+[2018-08-14 21:36:32.278415] [INFO] [crawler.py] [getProducts] [72] 获取本页商品信息
